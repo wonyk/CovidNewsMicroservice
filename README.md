@@ -2,6 +2,8 @@
 
 Just a backend API built using [express.js](https://expressjs.com/), powered by the [News API](https://newsapi.org).
 
+[![News API CI](https://github.com/wonyk/CovidNewsMicroservice/actions/workflows/news_ci.yml/badge.svg)](https://github.com/wonyk/CovidNewsMicroservice/actions/workflows/news_ci.yml)
+
 ## Installation
 
 ```bash
