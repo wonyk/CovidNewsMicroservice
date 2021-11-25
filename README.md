@@ -18,7 +18,7 @@ npm start windows
 
 ## About
 
-This is a project built for G2T4, CS203 project.
+This is originally a project built for G2T4, [CS203 project](https://github.com/xbowery/CS203_Proj). This serves as an external repository for further edits to preserve the original repo's state.
 
 ## API Documentation
 
